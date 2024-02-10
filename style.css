@@ -1,0 +1,172 @@
+body{
+    text-align: center;
+    width: 400px;
+    margin-left: 500px;
+
+    
+}
+
+.main{
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    border-radius: 1px;
+    border-color: rgb(193, 191, 191);
+}
+.left{
+    border: solid rgb(206, 204, 204);
+    
+}
+
+img{
+    background-color: white;
+    width: 400px;
+    /* border: 1px solid black; */
+    border-radius: 2px;
+}
+
+hr{
+    width: 400px;
+}
+
+p{
+    font-size: large;
+    font-weight: 200;
+    text-align: center;
+}
+
+.login{
+
+    background-color: blue;
+    color: white;
+    width: 30vh;
+    
+}
+
+.new{
+
+    background-color: blue;
+    color: white;
+    height: 30px;
+    width: 50vh;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.foot{
+    border: 1px solid black;
+}
+
+.email{
+    
+   text-align: left;
+}
+
+.pass{
+
+    text-align: left;
+}
+
+.leftt{
+
+        border: 1px solid black;
+        height: max-content;
+    }
+
+
+    .form{
+
+        align-content: center;
+        text-align: center;
+        
+    }
+
+    a{
+        color: white;
+        font-weight: 500;
+
+    }
+
+    .name{
+
+        width: 19vh;
+        height: 30px;
+        margin-left: 2vh;
+        /* margin-right: 3vh; */
+        /* display: flex; */
+        padding-left: 2%;
+        
+    }
+
+    .namee{
+
+        width: 19vh;
+        height: 30px;
+        margin-left: 6vh;
+        /* margin-right: 30vh; */
+        /* display: flex; */
+        padding-left: 2%;
+        /* padding-right: -3%; */
+        
+        
+        
+    }
+    .ngn{
+
+        width: 45vh;
+        height: 30px;
+        margin-left: -3vh;
+        
+        
+    }
+    .pwd{
+
+        width: 45vh;
+        height: 30px;
+        margin-left: -3vh;
+        
+    }
+    .mail{
+
+        width: 45vh;
+        height: 30px;
+        margin-left: -3vh;
+        
+    }
+
+    .box{
+
+        display: flex;
+    }
+    #day{
+        width: 20vh;
+    }
+
+    .date{
+        display: flex;
+        text-align: left;
+        margin-left: 5vh;
+        border: 1px solid black ;
+        height: 35px;
+        margin-right: 10vh;
+        padding-right: 5vh;
+       
+    }
+
+    .yrs{
+
+        margin-left: 6vh;
+        border: none;
+    }
+
+    #mon{
+        margin-left: 5vh;
+        border: none;
+    }
+
+
+    #day{
+        width: 40px;
+        margin-left: 3vh;
+        border: none;
+    }
